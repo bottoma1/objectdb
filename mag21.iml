@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/com.db4o.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/com.db4o.ome.help_8.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/com.db4o.ome_8.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/ant.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/bloat-1.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/db4o-8.0.184.15484-all-java5.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/db4o-8.0.276.16149-all-java5.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/db4o-8.0.276.16149-bench.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/db4o-8.0.276.16149-core-java5.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/db4o-8.0.276.16149-cs-java5.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/db4o-8.0.276.16149-cs.optional-java5.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/db4o-8.0.276.16149-db4ounit-java5.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/db4o-8.0.276.16149-instrumentation-java5.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/db4o-8.0.276.16149-nqopt-java5.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/db4o-8.0.276.16149-optional-java5.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/db4o-8.0.276.16149-osgi-test-java5.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/db4o-8.0.276.16149-taj-java5.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/db4o-8.0.276.16149-tools-java5.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/db4o-8.0.276.16149-osgi-java5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/src/db4o-8.0.276.16149-osgi-java5.jar!/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
