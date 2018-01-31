@@ -52,7 +52,7 @@ public class DataOperation {
 		data.store((member5));
 	}
 
-	
+	// функция для преобразования строки с датой в тип Date
 	public static Date parseDate(String date) {
 		SimpleDateFormat dateFormat = new SimpleDateFormat();
 		dateFormat.applyPattern("dd-MM-yyyy");

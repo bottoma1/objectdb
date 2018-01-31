@@ -1,15 +1,17 @@
 package conference;
 import java.util.Date;
 
+// участник направления
 public class Member {
-    private Human human;
-    private Meeting meeting;
-    private boolean speaker;
-    private Date invition_date;
-    private Date statement_date;
-    private String report_theme;
-    private boolean theses;
+    private Human human; // человек, который является участником
+    private Meeting meeting; // направление, в котором он является участником
+    private boolean speaker; // докладчик или нет
+    private Date invition_date; // дата приглашения
+    private Date statement_date; // дата подачи заявления
+    private String report_theme; // тема доклада
+    private boolean theses; // поданы ли тезисы
 
+	// конструктор
     public Member(Human human, Meeting meeting, boolean speaker, Date invition_date, Date statement_date, String report_theme, boolean theses)
     {
         this.human=human;
